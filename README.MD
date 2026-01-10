@@ -19,7 +19,7 @@ I'm a dedicated developer with a passion for:
 
 ## 📊 GitHub Stats
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api? username=Nehul1605&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api? username=Nehul1605&show_icons=true&theme=dark)](https://github.com/Nehul1605/github-readme-stats)
 
 ## 🌐 Connect With Me
 
