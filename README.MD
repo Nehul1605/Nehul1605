@@ -17,10 +17,6 @@ I'm a dedicated developer with a passion for:
 **Tools & Platforms:** Git, Docker, VS Code, Linux  
 **Databases:** MySQL, MongoDB, PostgreSQL
 
-## 📊 GitHub Stats
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Nehul1605&show_icons=true&theme=dark)](https://github.com/Nehul1605/github-readme-stats)
-
 ## 🌐 Connect With Me
 
 - [Email](mailto:nehulgoyal18@gmail.com)
